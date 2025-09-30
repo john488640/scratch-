@@ -10,4 +10,5 @@
 
 0920-导入“scratch画图+”
 （这几天在忙着写二分算法，所以停更几天）
-另外，会写Scratch二分算法的朋友请联系 : fdmh2024@outlook.com
+另外，请会写scratch二分算法的朋友请联系：fdmh2024@outlook.com
+
