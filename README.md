@@ -1,6 +1,6 @@
 ## scratch
 就是scratch仓库
-（HTML和EXE程序是由turbowarp打包的）
+（HTML和EXE程序是由turbowarp打包的，其中EXE程序为Electron框架打包的Windows 64位程序）
 打包地址：https://packager.turbowarp.org/
 
 ## 作品日志
